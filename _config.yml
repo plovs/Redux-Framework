@@ -1,7 +1,7 @@
 destination: ./_site
 # markdown: redcarpet
 
-url: http://redux:8063
+url: /Redux-Framework/
 
 project: Redux Theme Options Framework
 download: https://github.com/ghost1227/Redux-Framework/archive/master.zip
