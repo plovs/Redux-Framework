@@ -1,7 +1,7 @@
-destination: ./_site
+# destination: Redux-Framework
 # markdown: redcarpet
 
-url: /Redux-Framework/
+base_dir: /Redux-Framework
 
 project: Redux Theme Options Framework
 github: https://github.com/ghost1227/Redux-Framework
