@@ -4,6 +4,7 @@ destination: ./_site
 url: /Redux-Framework/
 
 project: Redux Theme Options Framework
+github: https://github.com/ghost1227/Redux-Framework
 download: https://github.com/ghost1227/Redux-Framework/archive/master.zip
 changelog: https://github.com/ghost1227/Redux-Framework/commits/master
 issues: https://github.com/ghost1227/Redux-Framework/issues
